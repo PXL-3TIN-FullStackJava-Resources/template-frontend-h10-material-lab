@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'template-frontend-h10-material-lab';
+  title = 'H10 material lab';
 }

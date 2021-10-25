@@ -1,0 +1,7 @@
+:host{
+    display: block;
+    width: calc(33% - 24px);
+    box-sizing: border-box;
+    margin: 12px;
+    float: left;
+}
