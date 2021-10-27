@@ -63,6 +63,9 @@ Hierna integreren we ook meteen de `routerLink` bindings in een `mat-list` zodat
 ```html
 <div class="example-container">
     <mat-toolbar color="primary" class="example-toolbar">
+        <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+            <mat-icon>menu</mat-icon>
+        </button>
         <span>AOE2 Docs</span>
         <span class="example-spacer"></span>
     </mat-toolbar>
