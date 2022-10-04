@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'https://aoe2-pxl.herokuapp.com/api/v1'
+  apiUrl: 'http://130.162.55.18:5000/api/v1'
 };
 
 /*
